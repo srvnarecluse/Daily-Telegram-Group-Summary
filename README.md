@@ -14,7 +14,6 @@ It supports:
 ## 1) Install
 
 ```bash
-cd /Users/I565138/Documents/Learning/telegram-daily-summary
 npm install
 ```
 
